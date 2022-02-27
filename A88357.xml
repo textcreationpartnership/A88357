@@ -1,0 +1,461 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the prisoners of the Upper Bench prison, who have taken the benefit of the Act of Parliament, for the relief of poor prisoners published to the end, that if any person hath taken the benefit of the Act of Parliament for relief of poor prisoners, which ought not; either by concealing, or making over their estates, at or before their taking the oath, to defraud their creditors: it being made appear, their creditors just relief will be endeavoured therein. By the appointment of the committee, Coll. Thomas Pride. Coll. Tomlinson. Coll. Cooper. Mr. John Fountain. Mr. Richard Wollastone. Mr. Margets, judge advocate.</title>
+            <author>Lenthall, John, Sir, 1625-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88357</idno>
+            <idno type="STC">Wing L2496</idno>
+            <idno type="STC">Thomason E213_9</idno>
+            <idno type="STC">ESTC R10409</idno>
+            <idno type="EEBO-CITATION">99858836</idno>
+            <idno type="PROQUEST">99858836</idno>
+            <idno type="VID">110895</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110895)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 37:E213[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the prisoners of the Upper Bench prison, who have taken the benefit of the Act of Parliament, for the relief of poor prisoners published to the end, that if any person hath taken the benefit of the Act of Parliament for relief of poor prisoners, which ought not; either by concealing, or making over their estates, at or before their taking the oath, to defraud their creditors: it being made appear, their creditors just relief will be endeavoured therein. By the appointment of the committee, Coll. Thomas Pride. Coll. Tomlinson. Coll. Cooper. Mr. John Fountain. Mr. Richard Wollastone. Mr. Margets, judge advocate.</title>
+                  <author>Lenthall, John, Sir, 1625-1681.</author>
+               </titleStmt>
+               <extent>[2], 6, 9-11 [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Mabb, for Livewell Chapman, and are to be sold at his shop at the Crown in Popes-head-Ally,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Lenthall.</note>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Annotation on Thomason copy: "May. 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  England --  Registers --  Early works to 1800.</term>
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110895:1"/>
+            <!-- PDF PAGE 40 -->
+            <pb facs="tcp:110895:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <p>A LIST OF THE PRISONERS Of the Vpper Bench Priſon, who have taken the Benefit of the Act of Parliament, for the Relief of Poor Priſoners:</p>
+            <p>Publiſhed to the end, that if any Per<g ref="char:EOLhyphen"/>ſon hath taken the benefit of the Act of <hi>Parliament for Relief of poor Priſoners,</hi> which ought not; either by Concealing, or making over their Eſtates, at or be<g ref="char:EOLhyphen"/>fore their taking the Oath, to defraud their Creditors: It being made appear, their Creditors juſt re<g ref="char:EOLhyphen"/>lief will be endeavoured therein.</p>
+            <p>By the Appointment of the Committee,
+<list>
+                  <item>Coll. <hi>Thomas Pride.</hi>
+                  </item>
+                  <item>Coll. <hi>Tomlinſon.</hi>
+                  </item>
+                  <item>Coll. <hi>Cooper.</hi>
+                  </item>
+                  <item>Mr. <hi>John Fountain.</hi>
+                  </item>
+                  <item>Mr. <hi>Richard Wollaſtone.</hi>
+                  </item>
+                  <item>Mr. <hi>Margets,</hi> Judge Advocate.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Mabb,</hi> for <hi>Livewell Chapman,</hi> and are to be ſold at his ſhop at the Crown in <hi>Popes-head-Ally,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_prisoners">
+            <pb facs="tcp:110895:2"/>
+            <!-- PDF PAGE 41 -->
+            <pb n="1" facs="tcp:110895:2"/>
+            <!-- PDF PAGE 41 -->
+            <head>A LIST of the Priſo<g ref="char:EOLhyphen"/>ners, who have taken the Benefit of the Act of Parliament, made for the Relief of poore Priſoners: out of the Upper-Bench PRISON.</head>
+            <list>
+               <head>The time when theſe ſeverall Pri<g ref="char:EOLhyphen"/>ſoners took the benefit of the Act.</head>
+               <item>IOhn Arch 16 of Aprill 1650</item>
+               <item>Hellen Gorge 3 of March 1650</item>
+               <item>Richard Tiſhmarſh 20 of January 1651</item>
+               <item>George Dover 22 of May 1652</item>
+               <item>Richard Thornton 24 of April 1650</item>
+               <item>Thomas Harris 16 of November 1650</item>
+               <item>Anthony Dixon 3 of Iuly 1650</item>
+               <item>Iohn Harriſon 9 of Iuly 1650</item>
+               <item>Iohn Goad 3 of Iuly 1650</item>
+               <item>Iohn Reſtor <hi>alias</hi> Royſton, 1 of Iuly 1650</item>
+               <item>Thomas Bainham 20 of Aprill 1650</item>
+               <item>Iames Iackſon 23 of Aprill 1650</item>
+               <item>Sir Arthur Smythes 2 of Iuly 1650</item>
+               <item>Iohn Maltus 3 of Iuly 1650</item>
+               <item>Iſaack Coper 31 of May 1652</item>
+               <item>Thomas Shelton 28 of November 1650</item>
+               <item>Randolf Hunt 23 of October 1652</item>
+               <item>Thomas Iackſon 12 of February 1652</item>
+               <pb n="2" facs="tcp:110895:3"/>
+               <!-- PDF PAGE 42 -->
+               <item>John Pain 11 of February 1650</item>
+               <item>John Coleman 26 of April 1650</item>
+               <item>John Cole 15 of February 1652</item>
+               <item>Edward Goodwin 21 of June 1652</item>
+               <item>William Harriot <hi>alias</hi> Symmons 3 of July 1650</item>
+               <item>Francis Brunger 27 of November 1651</item>
+               <item>William Cobb 19 of Auguſt 1650</item>
+               <item>Aaron Williams 12 of February 1652</item>
+               <item>Robert Lee 19 of September 1650</item>
+               <item>Edward Chamberlain 28 of November 1650</item>
+               <item>William Green 11 of June 1651</item>
+               <item>James Harriſon 12 of February 1651</item>
+               <item>John Croſſe 9 of December 1650</item>
+               <item>John Rayer 12 of April 1650</item>
+               <item>Thomas Poulſon 18 of April 1651</item>
+               <item>Nynion Cunningham 15 of November 1652</item>
+               <item>John Davies 4 of February 1652</item>
+               <item>John Ince 21 of June 1650</item>
+               <item>Thomas Alſop 28 of April 1651</item>
+               <item>Edmund Betts 9 of July 1650</item>
+               <item>John Lavin 16 of June 1651</item>
+               <item>Nathaniel Scaborn 28 of July 1650</item>
+               <item>John Kidſon 9 of July 1652</item>
+               <item>John Hunt 23 of April 1652</item>
+               <item>John Foſter 9 of July 1650</item>
+               <item>Thomas Smith 4 of July 1650</item>
+               <item>John Ceſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r 17 of May 1650</item>
+               <item>Edward Clark 12 of May 1651</item>
+               <item>Richard Gray 20 of Auguſt 1650</item>
+               <item>Edward Bottesford 12 February 1652</item>
+               <item>Richard Impeſon 24 of April 1651</item>
+               <item>George Tappe 6 of May 1650</item>
+               <item>George Bulloch 3 of April 1650</item>
+               <item>Francis Smith 12 of June 1650</item>
+               <item>Edmund Cowel 2 of July 1650</item>
+               <item>Elizabeth Henake 19 of July 1650</item>
+               <pb n="3" facs="tcp:110895:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 42 -->
+               <item>Edmund Haiward 20 of Auguſt 1650</item>
+               <item>Henry Drake 10 of May 1650</item>
+               <item>Thomas Hill 23 of April 1650</item>
+               <item>Robert Lock 29 of June 1652</item>
+               <item>John Coleman 26 of April 1650</item>
+               <item>John Foſter 9 of June 1650</item>
+               <item>Edward Read 10 of October 1650</item>
+               <item>Richard Farrer 10 of July 1650</item>
+               <item>Anthony Barber 24 of June 1651</item>
+               <item>Mark Baniſter 14 of June 1651</item>
+               <item>Giles Limpſcot 23 of April 1650</item>
+               <item>Anthony Gargrave 26 of April 1650</item>
+               <item>William Hooper 12 of February 1651</item>
+               <item>Thomas Bruſh 4 of March 1651</item>
+               <item>Iſaack Gardner 13 of June 1650</item>
+               <item>Thomas Tanner 10 of June 1651</item>
+               <item>Samuell Wilkinſon 3 of Auguſt 1650</item>
+               <item>John Bayly 22 of April 1652</item>
+               <item>Richard Dove 13 of May 1650</item>
+               <item>Silveſter Tart 6 of November 1651</item>
+               <item>John Cook 3 of March 1650</item>
+               <item>Chriſtopher Lying 24 of July 1651</item>
+               <item>John Burton 13 of May 1652</item>
+               <item>Robert Barcroft 4 of May 1652</item>
+               <item>Thomas Scarsbrick 4 of June 1652</item>
+               <item>William Hurt 13 of November 1650</item>
+               <item>Samuel Clark 15 of February 1650</item>
+               <item>Thomas Maling 29 of April 1651</item>
+               <item>John Vine 23 of April 1650</item>
+               <item>Edward Bottler <hi>alias</hi> Buttler 8 of May 1650</item>
+               <item>Richard Berry 23 of April 1650</item>
+               <item>John Edgſon 25 of May 1652</item>
+               <item>John Read 24 of September 1650</item>
+               <item>John Wingfield 29 of April 1650</item>
+               <item>Chriſtopher Shaw 19 of July 1650</item>
+               <item>Ezechiel Maior 6 of May 1650</item>
+               <pb n="4" facs="tcp:110895:4"/>
+               <!-- PDF PAGE 43 -->
+               <item>John Dudſon Auguſt the 1. 1650.</item>
+               <item>Thomas Morris, November the 10. 1652.</item>
+               <item>Abraham Hunt October the 1. 1652.</item>
+               <item>Daniel Gutherſton, February the 12. 1652.</item>
+               <item>Nicholas Fuſſell November the 29 1652.</item>
+               <item>John Adams 19 of September 1650.</item>
+               <item>Robert Nichols 23 of April 1650.</item>
+               <item>Henry Metcalf 12 of February 1652.</item>
+               <item>John Wats 28 of April 1652.</item>
+               <item>John Eaſtlander 18 of May 1650</item>
+               <item>Walter Vernon 20 of Auguſt 1652</item>
+               <item>Auguſtine Aldridge 24 of April 1652.</item>
+               <item>John Richardſon 3 of July 1650.</item>
+               <item>John Cockeram 4 of October 1650</item>
+               <item>Giles Barns 10 of September 1650.</item>
+               <item>Nicholas Parker 23 of July 1650.</item>
+               <item>Thomas Croſſe 15 of November 1652</item>
+               <item>Thomas Andrews 28 of November 1650</item>
+               <item>Richard Smartwood 23 of April 1650.</item>
+               <item>John Cook 3 of March 1650</item>
+               <item>George Aſhton 5 of March 1652</item>
+               <item>Peter Golding 23 of July 1652.</item>
+               <item>John Solomon 23 of November 1650.</item>
+               <item>John Norwood 23 of July 1650</item>
+               <item>Mary Joſlin 18 of July 1650</item>
+               <item>John Bullock 20 of January 16051</item>
+               <item>Thomas Nichols 24 of April 1650</item>
+               <item>Benjamin Terry 12 of February 1652</item>
+               <item>Thomas Tacke 18 of July 1650</item>
+               <item>John Groom 29 of November 1652</item>
+               <item>Joan Carter 3 of February 1651</item>
+               <item>William Parre. 20 of July 1650</item>
+               <item>Fraucis Wats 24 of Auguſt 1650</item>
+               <item>Alexander Weld 12 of July 1650</item>
+               <item>Adrian Smear 12 of February 1651</item>
+               <item>John Wright 3 of May 1651</item>
+               <pb n="5" facs="tcp:110895:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 43 -->
+               <item>Emanuel Gisby, 22. of May 1652.</item>
+               <item>John Roe 1. of Auguſt 1650.</item>
+               <item>George Durant, 20. of February 1652.</item>
+               <item>William Grove, 24. of May 1652</item>
+               <item>John Robinſon, 21 of January 1651</item>
+               <item>John Smith, 8. of Aprill 1652</item>
+               <item>Henry Haſtings 10. of Iuly 1652</item>
+               <item>Iſaack Wingfield 8. of May 1652</item>
+               <item>Richard Webſter 8 of May 1652</item>
+               <item>Iſaack Cooper 8 of May 1652</item>
+               <item>Alice Hugginſon 10 of February 1650</item>
+               <item>John Warde 12 of February 1650</item>
+               <item>Toby Havell 23 of June 1652</item>
+               <item>George Snelling 20 of May 1652</item>
+               <item>Richard Smith 22 of July 1652</item>
+               <item>Robert May 3 of July 1651</item>
+               <item>Thomas Towneſend 3 of May 1652</item>
+               <item>John Reeve 13 of May 1652</item>
+               <item>Robert Lamborn 18 of May 1652</item>
+               <item>William Duncombe 16 of November 1650</item>
+               <item>Thomas Flemming 12 of February 1650</item>
+               <item>Zakeus Perkin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s 18 of June 1650</item>
+               <item>Iohn Butterfield 23 of April 1652</item>
+               <item>Chriſtopher Sibthorpe 12 of February 1651</item>
+               <item>Humphrey Meverell 7 of Iuly 1653</item>
+               <item>Robert Lovet 8 of October 1651</item>
+               <item>Humphrey Thomas 7 of Iuly 1652</item>
+               <item>Symon Board 20 of November 1652</item>
+               <item>Richard Symonds 18 of June 1652</item>
+               <item>William Horton 16 of February 1652</item>
+               <item>Hambden Aſhfield 15 of May 1652</item>
+               <item>Francis Haxly 14 of May 1652</item>
+               <item>Henry Blackſtone 22 of May 1652</item>
+               <item>Thomas Jackſon 12 of Feb. 1650</item>
+               <item>Thomas Sturt 22 of July 1650</item>
+               <item>Iohn Andrews. 8 of May 1652</item>
+               <pb n="6" facs="tcp:110895:5"/>
+               <!-- PDF PAGE 44 -->
+               <item>Robert Blanque 2 of November 1652</item>
+               <item>William Williams 15 of Iuly 1652</item>
+               <item>Henry Duncombe 12 of February 1652</item>
+               <item>Nicholas Wingrane 27 of November 1652</item>
+               <item>Francis King 20 of May 1652</item>
+               <item>Silveſter Hasſlewood 28 of Nov. 1651</item>
+               <item>Mary Fletcher 27 of April 1653</item>
+               <item>Thomas Leadbrook 22 of Iuly 1652</item>
+               <item>William Gibbons 12 of February 1652</item>
+               <item>William Fells 18 of May 1652</item>
+               <item>Thomas Bridges 8 of Iuly 1652</item>
+               <item>Henry Andrews 10 of Febr. 1652</item>
+               <item>Obediah Heywarton 3 of Iune 1652</item>
+               <item>Iohn Iennings 15 of May 1652</item>
+               <item>Thomas Elſon 18 of May 1652</item>
+               <item>Walter Heath 25 of May 1652</item>
+               <item>Iohn Kempſon 10 of May 1652</item>
+               <item>Henry Nichols 12 of February 1652</item>
+               <item>Sir Arther Smythes 5 of Iuly 1652</item>
+               <item>Thomas Hartly 23 of Iune 1652</item>
+               <item>Audrey White 18 of May 1652</item>
+               <item>Daniel Stone 24 of May 1652</item>
+               <item>Barnard Dunce 8 of May 1652</item>
+               <item>Mark Tully 7 of Iuly 1652</item>
+               <item>Iam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Parry 22 of May 1652</item>
+               <item>Iohn Bigs 27 of May 1652</item>
+               <item>Gabriell Collington 29 of May 1652</item>
+               <item>Anthony Selby 15 of May 1652</item>
+               <item>Robert Largill 7 of Iuly 1652</item>
+               <item>Francis Towers 22 of May 1652</item>
+               <item>Robert Deale 14 of Iune 1652</item>
+               <item>Edward Grant 29 of May 1652</item>
+               <item>Hugh Symewell 23 of Iuly 1652</item>
+               <item>Edmund Partridge 23 of Iune 1652</item>
+               <item>Elizabeth Olton 27 of Aprill 1653</item>
+               <item>Andrew Peters 7 of Iuly 1652</item>
+               <pb n="9" facs="tcp:110895:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 44 -->
+               <item>Nynian Cuningham, 28 <hi>Novemb.</hi> 1652</item>
+               <item>Nicholas Fuſſell, 23 <hi>Decemb.</hi> 1652</item>
+               <item>George Cheny, 14 <hi>June</hi> 1652</item>
+               <item>Chriſtopher Metcalfe, 4 <hi>June</hi> 1652</item>
+               <item>Thomas Buſhel, 6 <hi>July</hi> 1652</item>
+               <item>Richard Goodwyn, 7 <hi>July</hi> 1652</item>
+               <item>Edward Neale, 4 <hi>Febr.</hi> 1652</item>
+               <item>Francis Copeland, 30 <hi>April</hi> 1652</item>
+               <item>William Baker and Arthur Baker, 29 <hi>Novemb.</hi> 1652</item>
+               <item>Robert Gates, 23 <hi>July</hi> 1652</item>
+               <item>William Partrick, 29 <hi>May</hi> 1652</item>
+               <item>Thomas Joanes, 12 <hi>Feb.</hi> 1652</item>
+               <item>Robert Catesby, 24 <hi>May</hi> 1652</item>
+               <item>Roger Seele, 22 <hi>June</hi> 1652</item>
+               <item>William Wall, 31 <hi>July</hi> 1652</item>
+               <item>Bryan Smith, 29 <hi>Novemb.</hi> 1652</item>
+               <item>Alexander Chancey, 14 <hi>May</hi> 1652</item>
+               <item>William Bridges, 22 <hi>June</hi> 1652</item>
+               <item>George Busfeild, 25 <hi>May</hi> 1652</item>
+               <item>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton Oneale, 20 <hi>Decemb.</hi> 1652</item>
+               <item>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptali Peters, 18 <hi>May</hi> 1652</item>
+               <item>William Taylor, 20 <hi>Auguſt</hi> 1652</item>
+               <item>Samuel Coles 13 <hi>May</hi> 1652</item>
+               <item>George Peate 19 <hi>May</hi> 1652</item>
+               <item>Allen Puskin, 29 <hi>May</hi> 1652</item>
+               <item>Nicholas Rolfe, 2 <hi>Iune</hi> 1652</item>
+               <item>Edward Rogers, 7 <hi>Iune</hi> 1652</item>
+               <item>George Dover, 22 <hi>May</hi> 1652</item>
+               <item>John Osborne, 18 <hi>Iune</hi> 1652</item>
+               <item>Emmanuel Combers, 4 <hi>Iune</hi> 1652</item>
+               <item>Henry Jones, 2 <hi>Iuly</hi> 1652</item>
+               <item>George Hills, 7 <hi>Iune</hi> 1652</item>
+               <item>Richard Growden, 16 <hi>Iuly</hi> 1652</item>
+               <item>William Newham, 29 <hi>May</hi> 1652</item>
+               <item>Thomas Whicherly, 7 <hi>Iuly</hi> 1652</item>
+               <item>Arthur Gwatkin, 31 <hi>Auguſt</hi> 1652</item>
+               <pb n="10" facs="tcp:110895:6"/>
+               <!-- PDF PAGE 45 -->
+               <item>Francis Metcalfe, 7 <hi>Iune</hi> 1652</item>
+               <item>Henry Hunlocke, 29 <hi>Iune</hi> 1652</item>
+               <item>William Henderſon, 19 <hi>Iune</hi> 1652</item>
+               <item>James Jenings, 12 <hi>Feb.</hi> 1652</item>
+               <item>Edward Coe, 16 <hi>June</hi> 1652</item>
+               <item>John Evans, 29 <hi>Novemb.</hi> 1652</item>
+               <item>John Downes, 7 <hi>Iuly</hi> 1652</item>
+               <item>William Merrel, 21 <hi>Febr.</hi> 1652</item>
+               <item>John Fawcett, 12 <hi>Febr.</hi> 1652</item>
+               <item>Richard Plant, 15 <hi>Iuly</hi> 1652</item>
+               <item>Samuel Judd, 21 <hi>Iune</hi> 1652</item>
+               <item>Richard Hockombe, 14 <hi>Iune</hi> 1652</item>
+               <item>Henry Lawes 26 <hi>Iune</hi> 1652</item>
+               <item>John Biſſell 15 <hi>Iuly</hi> 1652</item>
+               <item>John Pomflet, 20 <hi>Iune</hi> 1652</item>
+               <item>John Lauſdale. 15 <hi>Iuly</hi> 1652</item>
+               <item>Richard Hewſon, 15 <hi>July</hi> 1652</item>
+               <item>George Denham, 12 <hi>February</hi> 1652</item>
+               <item>Robert Fennel. 20 <hi>Auguſt</hi> 1652</item>
+               <item>James Edwards, 26 <hi>June</hi> 16<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>John White. 12 <hi>February</hi> 1652</item>
+               <item>Robert Farmery, 15 <hi>October</hi> 1652</item>
+               <item>Robert Locke 29 <hi>Novemb.</hi> 1652</item>
+               <item>Parke Creſſey, 29 <hi>July</hi> 1652</item>
+               <item>Thomas Davy. 4 <hi>Novemb.</hi> 1652</item>
+               <item>Lawrence Walker, 29 <hi>Novemb.</hi> 1652</item>
+               <item>Robert Barket, 4 <hi>Decemb.</hi> 1652</item>
+               <item>Simon Smalwood, 12 <hi>Febr.</hi> 1652</item>
+               <item>John Goflyn 19 <hi>Januar.</hi> 1652</item>
+               <item>Edward Greenal, 12 <hi>Febr.</hi> 1652</item>
+               <item>Emmanuel Gisby, 15 <hi>July</hi> 1652</item>
+               <item>John Longe, 7 <hi>July</hi> 1652</item>
+               <item>George Howard, 19 <hi>June</hi> 1652</item>
+               <item>William Seywel, 29 <hi>July</hi> 1652</item>
+               <item>John Adams, 3 <hi>July</hi> 1650</item>
+               <item>James Heyes 3 <hi>May</hi> 1651</item>
+               <pb n="11" facs="tcp:110895:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 45 -->
+               <item>Anthony Hungerford, 12 <hi>Febr.</hi> 1652</item>
+               <item>William Herbert. 22 <hi>June</hi> 1652</item>
+               <item>Matthew Peckover, 12 <hi>Feb.</hi> 1652</item>
+               <item>Edmund Cowel, 29 <hi>Novemb.</hi> 1652</item>
+            </list>
+            <closer>
+               <signed>John Lenthall.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
